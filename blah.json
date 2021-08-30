@@ -3,7 +3,7 @@
         "Author": "abc",
         "Name": "Sample Plugin",
         "Description": "Wooow",
-        "AssemblyVersion": "6",
+        "AssemblyVersion": "7",
         "RepoUrl": "https://github.com/ILoveMonsterTrucksALot/myrepo",
         "InternalName": "samplePlugin",
         "ApplicableVersion": "any",
