@@ -3,7 +3,7 @@
         "Author": "abc",
         "Name": "Abc Test",
         "Description": "Wooow",
-        "InternalName": "Wow",
+        "InternalName": "SkipCutscene",
         "AssemblyVersion": "1",
         "RepoUrl": "https://github.com/ILoveMonsterTrucksALot/myrepo",
         "ApplicableVersion": "any",
