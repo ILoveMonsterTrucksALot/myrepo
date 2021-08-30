@@ -3,7 +3,7 @@
         "Author": "abc",
         "Name": "Abc",
         "Description": "Wooow",
-        "InternalName": "Abcd",
+        "InternalName": "AutoSweep",
         "AssemblyVersion": "1.0.2.5",
         "RepoUrl": "https://github.com/ILoveMonsterTrucksALot/myrepo",
         "ApplicableVersion": "any",
