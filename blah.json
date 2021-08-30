@@ -1,10 +1,9 @@
 [
     {
         "Author": "abc",
-        "Name": "Abc",
+        "Name": "Sample Plugin",
         "Description": "Wooow",
-        "InternalName": "AutoSweep",
-        "AssemblyVersion": "3.0.2",
+        "AssemblyVersion": "4.0",
         "RepoUrl": "https://github.com/ILoveMonsterTrucksALot/myrepo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -14,6 +13,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1626301627"
+        "LastUpdated": "1626301629"
     }
 ]
