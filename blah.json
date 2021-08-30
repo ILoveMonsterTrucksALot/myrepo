@@ -1,0 +1,17 @@
+[
+    {
+        "Author": "abc",
+        "Name": "Abc Test",
+        "Description": "Wooow",
+        "InternalName": "Wow",
+        "AssemblyVersion": "1.0.2.3",
+        "RepoUrl": "https://github.com/ILoveMonsterTrucksALot/myrepo",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1626301625"
+    }
+]
