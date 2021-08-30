@@ -4,7 +4,7 @@
         "Name": "Abc",
         "Description": "Wooow",
         "InternalName": "AutoSweep",
-        "AssemblyVersion": "3.0.1",
+        "AssemblyVersion": "3.0.2",
         "RepoUrl": "https://github.com/ILoveMonsterTrucksALot/myrepo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
